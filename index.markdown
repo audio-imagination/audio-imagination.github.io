@@ -19,7 +19,7 @@ At the same time, there are several new problems to study. For example, in the m
 
 This workshop aims to bring together researchers working on different audio generation problems and enable concentrated discussions on the topic. The workshop will feature exciting invited talks, high-quality papers presented through oral and poster sessions and a demo session to let everyone experience the current state of audio generation methods. 
 
-# Speakers
+<!-- # Speakers
 
 <table style="border-collapse: collapse; border: none;">
 <tr style="border: none;">
@@ -70,9 +70,9 @@ This workshop aims to bring together researchers working on different audio gene
     <td style="border: none;"><a href="https://v-chandra.github.io/">Vikas Chandra</a></td>
     <td style="border: none;">Meta, USA</td>
 </tr>
-</table>
+</table> -->
 
-# Programme
+<!-- # Programme
 
 | Time  | Schedule |
 | :--   | :--  |
@@ -89,7 +89,7 @@ This workshop aims to bring together researchers working on different audio gene
 | 14:30 - 15:15 | Oral paper presentations |
 | 15:15 - 15:30 | Short Break |
 | 15:30 - 17:00 | Poster and Demo presentations |
-| 17:00 - 17:45 | Panel Discussion and Closing Remarks |
+| 17:00 - 17:45 | Panel Discussion and Closing Remarks | -->
 
 # Paper Submission
 ## Main paper track
@@ -151,10 +151,10 @@ TBD - Paper notification
 <tr style="border: none;">
     <td style="border: none;">
         <img style="width: auto; height: auto;  max-height:128px;  max-width:128px; position: relative; overflow: hidden; border-radius: 50%;" 
-        src="./assets/img/berrek_sisman.png">
+        src="./assets/img/wenwu_wang.webp">
     </td>
-    <td style="border: none;"><a href="https://ece.utdallas.edu/staff/sisman/">Berrak Sisman</a></td>
-    <td style="border: none;">Assistant professor at The University of Texas at Dallas, USA</td>
+    <td style="border: none;"><a href="https://www.surrey.ac.uk/people/wenwu-wang">Wenwu Wang</a></td>
+    <td style="border: none;">Professor at University of Surrey, United Kingdom</td>
 </tr>
 <tr style="border: none;">
     <td style="border: none;">
@@ -167,9 +167,9 @@ TBD - Paper notification
 <tr style="border: none;">
     <td style="border: none;">
         <img style="width: auto; height: auto;  max-height:128px;  max-width:128px; position: relative; overflow: hidden; border-radius: 50%;" 
-        src="./assets/img/wenwu_wang.webp">
+        src="./assets/img/berrek_sisman.png">
     </td>
-    <td style="border: none;"><a href="https://www.surrey.ac.uk/people/wenwu-wang">Wenwu Wang</a></td>
-    <td style="border: none;">Professor at University of Surrey, United Kingdom</td>
+    <td style="border: none;"><a href="https://ece.utdallas.edu/staff/sisman/">Berrak Sisman</a></td>
+    <td style="border: none;">Assistant professor at The University of Texas at Dallas, USA</td>
 </tr>
 </table>
