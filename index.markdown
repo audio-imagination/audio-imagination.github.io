@@ -19,7 +19,7 @@ At the same time, there are several new problems to study. For example, in the m
 
 This workshop aims to bring together researchers working on different audio generation problems and enable concentrated discussions on the topic. The workshop will feature exciting invited talks, high-quality papers presented through oral and poster sessions and a demo session to let everyone experience the current state of audio generation methods. 
 
-<!-- # Speakers
+# Invited Speakers
 
 <table style="border-collapse: collapse; border: none;">
 <tr style="border: none;">
@@ -70,9 +70,9 @@ This workshop aims to bring together researchers working on different audio gene
     <td style="border: none;"><a href="https://v-chandra.github.io/">Vikas Chandra</a></td>
     <td style="border: none;">Meta, USA</td>
 </tr>
-</table> -->
+</table>
 
-<!-- # Programme
+# Programme
 
 | Time  | Schedule |
 | :--   | :--  |
@@ -89,7 +89,7 @@ This workshop aims to bring together researchers working on different audio gene
 | 14:30 - 15:15 | Oral paper presentations |
 | 15:15 - 15:30 | Short Break |
 | 15:30 - 17:00 | Poster and Demo presentations |
-| 17:00 - 17:45 | Panel Discussion and Closing Remarks | -->
+| 17:00 - 17:45 | Panel Discussion and Closing Remarks |
 
 # Paper Submission
 ## Main paper track
@@ -111,15 +111,15 @@ A key component of the proposed workshop is that we will hold an onsite demo ses
 - Authors of accepted papers will be encouraged to also have a demo of their generation method during their paper presentation
 - Researchers can submite a 3-page submission outlining details of their demo to a separate demo track.
 
-## Submission link: coming soon.
+# Submission link
 
-# Dates
+Coming soon.
 
-TBD - Paper submision ddl
+# Important Dates
 
-TBD - Paper notification
-
-14th December 2024 - Workshop
+- **September 15th** - Paper & Demo Submision Deadline
+- **October 10th** - Paper & Demo Acceptance Notification 
+- **December 14th** - Workshop
 
 # Organizers
 
