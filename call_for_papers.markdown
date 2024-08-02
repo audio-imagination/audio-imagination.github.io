@@ -3,7 +3,6 @@ permalink: /call_for_papers.html
 title: "Audio Imagination: NeurIPS 2024 Workshop on AI-Driven Speech, Music, and Sound Generation"
 layout: default
 ---
-<center> <a href="{{ site.baseurl }}/">Home</a> </center>
 
 # Call For Papers
 ## Main paper track
