@@ -33,10 +33,10 @@ Paper will be submitted through Openreview. Openreview Submission Link - [Openre
 
 We invite proposals for Demo Track. Demo Track submissions should focus on demoing audio generation methods. Submissions to Demo Track
 
-* Should be in Neurips 2024 format.  Please find Latex Style Files and Other Formatting Instructions from Neurips Submission[Link to the Neurips page — https://nips.cc/Conferences/2024/CallForPapers] Please use the [preprint] option in Neurips style.
-* should be 2 pages of content, including all figures and tables.
-* should clearly describe your demo and what participants will experience in your demo. A clear description of the overall demo setup is also expected.
-* are single blind. Authors should put their names and affiliations.
-* can also come from Main Paper Track. Authors of the Main Paper Track can indicate in their paper interest in giving a demo of their work.
+* Should be in Neurips 2024 format.  Please find Latex Style Files and Other Formatting Instructions from [Neurips Submission page](https://nips.cc/Conferences/2024/CallForPapers) Please use the [preprint] option in Neurips style.
+* Should be 2 pages of content, including all figures and tables.
+* Should clearly describe your demo and what participants will experience in your demo. A clear description of the overall demo setup is also expected.
+* Are single blind. Authors should put their names and affiliations.
+* Can also come from Main Paper Track. Authors of the Main Paper Track can indicate in their paper interest in giving a demo of their work.
 
 Papers will be submitted through Openreview. Openreview Submission Link - Will be available on August 15.
