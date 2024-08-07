@@ -4,7 +4,7 @@ title: "Audio Imagination: NeurIPS 2024 Workshop on AI-Driven Speech, Music, and
 layout: default
 ---
 
-# Paper Submission
+# Call For Papers
 
 The Audio Imagination Workshop at the Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024) aims to bring together researchers working in the field of generative AI for audio, speech, music, including multimodal generative AI with audio as one of the modalities.
 
@@ -32,7 +32,7 @@ We invite submission in two tracks, Main Paper Track and Demo Track. The submiss
 
 
 
-## Main paper track
+## Main Paper Track
 
 The main paper track is the primary submission track for the Audio Imagination workshop and will facilitate discussions on relevant topics. Accepted papers will be presented through oral talks or poster sessions. Please note that Audio Imagination is an in-person workshop and papers are expected to be presented in person.
 
@@ -52,7 +52,7 @@ Papers submitted in the Main Paper Track
 Paper will be submitted through Openreview. Openreview Submission Link - [Openreview Audio Imagination 2024](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/Audio_Imagination#tab-your-consoles)
 
 
-## Demo track
+## Demo Track
 
 A key component of the Audio Imagination workshop is that we will also hold a demo session, where participants will have a chance to showcase their advanced audio generation methods and technologies. The demo track will enable listening experiences for workshop participants which is critical to understand, evaluate and contextualize generated audio. The demo session will be conducted alongside poster sessions.
 
