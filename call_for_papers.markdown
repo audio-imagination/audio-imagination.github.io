@@ -38,4 +38,4 @@ The main paper track is the primary submission track for the Audio Imagination w
 A key component of the Audio Imagination workshop is that we will also hold a demo session, where participants will have a chance to showcase their advanced audio generation methods and technologies. The demo track will enable listening experiences for workshop participants which is critical to understand, evaluate and contextualize generated audio. The demo session will be conducted alongside poster sessions.
 
 
-**Please Check Out the [Submissions Page](./paper_submission.html) for details on submission process and paper formatting**
+**Please Check Out the [Submissions Page](./paper_submission.html) for details on paper formatting and submission details.**
