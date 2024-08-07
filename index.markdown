@@ -10,6 +10,19 @@ layout: default
 
 Generative AI has been at the forefront of AI research in recent times, with numerous studies showcasing remarkable and surprising generation capabilities across various modalities such as text, image, and audio. This workshop aims to delve into the latest advancements in generative AI, specifically focusing on audio generation. Audio generation presents unique challenges due to the nature of the audio signal, its perception by humans, and its relationship with other modalities like text and visuals. Modern generative methods have brought about new opportunities for solving well-studied audio generation problems, such as text-to-speech synthesis, while also leading to explorations of exciting new problems. The workshop seeks to bring together researchers working on different audio generation problems and facilitate concentrated discussions on the topic. It will feature engaging invited talks, high-quality papers presented through oral and poster sessions, and a demo session to showcase the current state of audio generation methods.
 
+# Call For Papers Paper {#submission}
+We invite submissions for Main Paper and Demo Tracks. Please go to [Submission Page](./paper_submission.html) for more details. The submission details will be made available on Aug 7th.
+
+Feel free to contact the orgainzers if you have any question regarding the workshop.
+
+# Important Dates {#dates}
+
+- **September 15th** - Main Paper Submision Deadline
+- **September 21st** - Demo Paper Submission Deadline
+- **October 9th** - Paper & Demo Acceptance Notification
+- **December 14th** - Workshop (Tentative. Could be on Dec 15th.)
+
+
 # Invited Speakers {#speakers}
 
 <table style="border-collapse: collapse; border: none;">
@@ -62,18 +75,6 @@ Generative AI has been at the forefront of AI research in recent times, with num
     <td style="border: none;">Meta, USA</td>
 </tr>
 </table>
-
-# Call For Papers Paper {#submission}
-We invite submissions for Main Paper and Demo Tracks. Please go to [Submission Page](./paper_submission.html) for more details. The submission details will be made available on Aug 7th.
-
-Feel free to contact the orgainzers if you have any question regarding the workshop.
-
-# Important Dates {#dates}
-
-- **September 15th** - Main Paper Submision Deadline
-- **September 21st** - Demo Paper Submission Deadline
-- **October 9th** - Paper & Demo Acceptance Notification
-- **December 14th** - Workshop (Tentative. Could be on Dec 15th.)
 
 
 # Programme {#programme}
