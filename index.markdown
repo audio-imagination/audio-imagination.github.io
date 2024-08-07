@@ -6,24 +6,16 @@ title: "Audio Imagination: NeurIPS 2024 Workshop on AI-Driven Speech, Music, and
 layout: default
 ---
 
-# Goals and Motivations {#motivations}
+# Audio Imagination Workshop {#motivations}
 
-Generative AI has made significant progress in recent times, with remarkable generation capabilities across different modalities such as text, image, and audio. ChatGPT, Gemini, DALL-E, Stable Diffusion, Imagen, and Make-A-Video are some examples of generative AI that have captured the attention of researchers and the general public.
-
-Audio generation presents unique challenges due to the nature of the audio signal. The perception of audio is largely driven by its frequency characteristics over time, and sounds play an important role in providing a spatial sense to humans. Therefore, AI approaches need to account for these characteristics while learning to generate audio. Additionally, human perception of sounds is spatialized, making spatial audio generation crucial for producing real-life-like experiences through generative audio technologies.
-
-Some audio generation tasks, such as text-to-speech synthesis, voice conversion, and speech enhancement/separation, have been studied for a while in the speech/audio/music research community. However, modern generative modeling brings new opportunities to solve these problems, such as modeling audio signals as sequences of discrete tokens similar to word tokens.
-
-New problems to study include generating music and sounds from natural language inputs, which has gained significant attention in recent times, and generating audiovisual content, which has the potential to make a significant impact on the future of media creation.
-
-This workshop aims to bring together researchers working on different audio generation problems and enable concentrated discussions on the topic. It will feature exciting invited talks, high-quality papers presented through oral and poster sessions, and a demo session to let everyone experience the current state of audio generation methods.
+Generative AI has been at the forefront of AI research in recent times, with numerous studies showcasing remarkable and surprising generation capabilities across various modalities such as text, image, and audio. This workshop aims to delve into the latest advancements in generative AI, specifically focusing on audio generation. Audio generation presents unique challenges due to the nature of the audio signal, its perception by humans, and its relationship with other modalities like text and visuals. Modern generative methods have brought about new opportunities for solving well-studied audio generation problems, such as text-to-speech synthesis, while also leading to explorations of exciting new problems. The workshop seeks to bring together researchers working on different audio generation problems and facilitate concentrated discussions on the topic. It will feature engaging invited talks, high-quality papers presented through oral and poster sessions, and a demo session to showcase the current state of audio generation methods.
 
 # Invited Speakers {#speakers}
 
 <table style="border-collapse: collapse; border: none;">
 <tr style="border: none;">
     <td style="border: none;">
-        <img style="width: auto; height: auto;  max-height:128px;  max-width:128px; position: relative; overflow: hidden; border-radius: 50%;" 
+        <img style="width: auto; height: auto;  max-height:128px;  max-width:128px; position: relative; overflow: hidden; border-radius: 50%;"
         src="./assets/img/alexis_conneau.jpeg">
     </td>
     <td style="border: none;"><a href="https://scholar.google.fr/citations?user=45KfCpgAAAAJ">Alexis Conneau</a></td>
@@ -31,7 +23,7 @@ This workshop aims to bring together researchers working on different audio gene
 </tr>
 <tr style="border: none;">
     <td style="border: none;">
-        <img style="width: auto; height: auto;  max-height:128px;  max-width:128px; position: relative; overflow: hidden; border-radius: 50%;" 
+        <img style="width: auto; height: auto;  max-height:128px;  max-width:128px; position: relative; overflow: hidden; border-radius: 50%;"
         src="./assets/img/yao_xie.jpg">
     </td>
     <td style="border: none;"><a href="https://www2.isye.gatech.edu/~yxie77/">Yao Xie</a></td>
@@ -39,7 +31,7 @@ This workshop aims to bring together researchers working on different audio gene
 </tr>
 <tr style="border: none;">
     <td style="border: none;">
-        <img style="width: auto; height: auto;  max-height:128px;  max-width:128px; position: relative; overflow: hidden; border-radius: 50%;" 
+        <img style="width: auto; height: auto;  max-height:128px;  max-width:128px; position: relative; overflow: hidden; border-radius: 50%;"
         src="./assets/img/zhou_zhao.jpg">
     </td>
     <td style="border: none;"><a href="https://mypage.zju.edu.cn/zhaozhou">Zhou Zhao</a></td>
@@ -47,7 +39,7 @@ This workshop aims to bring together researchers working on different audio gene
 </tr>
 <tr style="border: none;">
     <td style="border: none;">
-        <img style="width: auto; height: auto;  max-height:128px;  max-width:128px; position: relative; overflow: hidden; border-radius: 50%;" 
+        <img style="width: auto; height: auto;  max-height:128px;  max-width:128px; position: relative; overflow: hidden; border-radius: 50%;"
         src="./assets/img/anna_huang.jpg">
     </td>
     <td style="border: none;"><a href="https://czhuang.github.io/">Anna Huang</a></td>
@@ -55,7 +47,7 @@ This workshop aims to bring together researchers working on different audio gene
 </tr>
 <tr style="border: none;">
     <td style="border: none;">
-        <img style="width: auto; height: auto;  max-height:128px;  max-width:128px; position: relative; overflow: hidden; border-radius: 50%;" 
+        <img style="width: auto; height: auto;  max-height:128px;  max-width:128px; position: relative; overflow: hidden; border-radius: 50%;"
         src="./assets/img/joon_soo.jpeg">
     </td>
     <td style="border: none;"><a href="https://mm.kaist.ac.kr/joon/">Joon Son Chung</a></td>
@@ -63,7 +55,7 @@ This workshop aims to bring together researchers working on different audio gene
 </tr>
 <tr style="border: none;">
     <td style="border: none;">
-        <img style="width: auto; height: auto;  max-height:128px;  max-width:128px; position: relative; overflow: hidden; border-radius: 50%;" 
+        <img style="width: auto; height: auto;  max-height:128px;  max-width:128px; position: relative; overflow: hidden; border-radius: 50%;"
         src="./assets/img/vikas_chandra.jpg">
     </td>
     <td style="border: none;"><a href="https://v-chandra.github.io/">Vikas Chandra</a></td>
@@ -71,7 +63,21 @@ This workshop aims to bring together researchers working on different audio gene
 </tr>
 </table>
 
+# Call For Papers Paper {#submission}
+We invite submissions for Main Paper and Demo Tracks. Please go to [Submission Page](./paper_submission.html) for more details. The submission details will be made available on Aug 7th.
+
+Feel free to contact the orgainzers if you have any question regarding the workshop.
+
+# Important Dates {#dates}
+
+- **September 15th** - Main Paper Submision Deadline
+- **September 21st** - Demo Paper Submission Deadline
+- **October 9th** - Paper & Demo Acceptance Notification
+- **December 14th** - Workshop (Tentative. Could be on Dec 15th.)
+
+
 # Programme {#programme}
+This is a tentative programme and could change. The final programme will be released after the paper acceptance.
 
 | Time  | Schedule |
 | :--   | :--  |
@@ -90,32 +96,23 @@ This workshop aims to bring together researchers working on different audio gene
 | 15:30 - 17:00 | Poster and Demo presentations |
 | 17:00 - 17:45 | Closing Remarks |
 
-# Paper Submission {#submission}
-Please go to [Submission Page](./paper_submission.html) for more details. The submission details will be made available on Aug 7th.
 
-Feel free to contact the orgainzers if you have any question regarding the workshop.
-
-# Important Dates {#dates}
-
-- **September 15th** - Paper & Demo Submision Deadline
-- **October 9th** - Paper & Demo Acceptance Notification 
-- **December 14th** - Workshop
 
 # Organizers {#organizers}
 
 <table style="border-collapse: collapse; border: none;">
 <tr style="border: none;">
     <td style="border: none;">
-        <img style="width: auto; height: auto;  max-height:128px;  max-width:128px; position: relative; overflow: hidden; border-radius: 50%;" 
+        <img style="width: auto; height: auto;  max-height:128px;  max-width:128px; position: relative; overflow: hidden; border-radius: 50%;"
         src="./assets/img/anurag_kumar.jpg">
     </td>
     <td style="border: none;"><a href="https://anuragkr90.github.io">Anurag Kumar</a></td>
     <td style="border: none;">Research Lead and Scientist at Meta, USA</td>
-    <td style="border: none;">anuragkr90 (at) meta (dot) com</td>
+    <td style="border: none;">anuragkr (at) ieee (dot) org</td>
 </tr>
 <tr style="border: none;">
     <td style="border: none;">
-        <img style="width: auto; height: auto;  max-height:128px;  max-width:128px; position: relative; overflow: hidden; border-radius: 50%;" 
+        <img style="width: auto; height: auto;  max-height:128px;  max-width:128px; position: relative; overflow: hidden; border-radius: 50%;"
         src="./assets/img/zhaoheng_ni.jpg">
     </td>
     <td style="border: none;"><a href="https://nateanl.github.io/">Zhaoheng Ni</a></td>
@@ -124,7 +121,7 @@ Feel free to contact the orgainzers if you have any question regarding the works
 </tr>
 <tr style="border: none;">
     <td style="border: none;">
-        <img style="width: auto; height: auto;  max-height:128px;  max-width:128px; position: relative; overflow: hidden; border-radius: 50%;" 
+        <img style="width: auto; height: auto;  max-height:128px;  max-width:128px; position: relative; overflow: hidden; border-radius: 50%;"
         src="./assets/img/yapeng_tian.jpg">
     </td>
     <td style="border: none;"><a href="https://www.yapengtian.com/">Yapeng Tian</a></td>
@@ -133,7 +130,7 @@ Feel free to contact the orgainzers if you have any question regarding the works
 </tr>
 <tr style="border: none;">
     <td style="border: none;">
-        <img style="width: auto; height: auto;  max-height:128px;  max-width:128px; position: relative; overflow: hidden; border-radius: 50%;" 
+        <img style="width: auto; height: auto;  max-height:128px;  max-width:128px; position: relative; overflow: hidden; border-radius: 50%;"
         src="./assets/img/wenwu_wang.webp">
     </td>
     <td style="border: none;"><a href="https://www.surrey.ac.uk/people/wenwu-wang">Wenwu Wang</a></td>
@@ -142,7 +139,7 @@ Feel free to contact the orgainzers if you have any question regarding the works
 </tr>
 <tr style="border: none;">
     <td style="border: none;">
-        <img style="width: auto; height: auto;  max-height:128px;  max-width:128px; position: relative; overflow: hidden; border-radius: 50%;" 
+        <img style="width: auto; height: auto;  max-height:128px;  max-width:128px; position: relative; overflow: hidden; border-radius: 50%;"
         src="./assets/img/shinji_watanabe.jpg">
     </td>
     <td style="border: none;"><a href="https://sites.google.com/view/shinjiwatanabe">Shinji Watanabe</a></td>
@@ -151,7 +148,7 @@ Feel free to contact the orgainzers if you have any question regarding the works
 </tr>
 <tr style="border: none;">
     <td style="border: none;">
-        <img style="width: auto; height: auto;  max-height:128px;  max-width:128px; position: relative; overflow: hidden; border-radius: 50%;" 
+        <img style="width: auto; height: auto;  max-height:128px;  max-width:128px; position: relative; overflow: hidden; border-radius: 50%;"
         src="./assets/img/berrek_sisman.png">
     </td>
     <td style="border: none;"><a href="https://ece.utdallas.edu/staff/sisman/">Berrak Sisman</a></td>
