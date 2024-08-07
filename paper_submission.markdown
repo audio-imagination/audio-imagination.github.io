@@ -13,10 +13,10 @@ We invite submission in two tracks, Main Paper Track and Demo Track. The submiss
 
 The main paper track is the primary submission track for the Audio Imagination workshop and will facilitate discussions on relevant topics. Accepted papers will be presented through oral talks or poster sessions. Please note that Audio Imagination is an in-person workshop and papers are expected to be presented in person.
 
-Please do not submit papers previously published at any other conference/journal. Extensions of previously accepted/published (minor or major) of previously accepted/published works are welcome. We especially encourage and welcome papers discussing interesting early promising research and/or preliminary results. Short versions of Neurips 2024 submissions can be submitted to the workshop.
-Authors of accepted papers can submit their work to another conference/journal, provided the other conference/journal allows it. Authors are responsible for ensuring they meet the submission policy of any other conference/journal.
-
-Authors of papers accepted at Audio Imagination can submit their paper at another conference/journal provided the other conference/journal allows it. Please note that, authors are responsible for ensuring that they meet submission policy of any other conference/journal.
+* Please do not submit papers previously published at any other conference/journal. Extensions of previously accepted/published (minor or major) of previously accepted/published works are welcome.
+* We especially encourage and welcome papers discussing interesting early promising research and/or preliminary results.
+* Short versions of Neurips 2024 submissions (accepted/rejected) can be submitted to the workshop.
+* Authors of accepted papers can submit their work to another conference/journal, provided the other conference/journal allows it. Authors are responsible for ensuring they meet the submission policy of any other conference/journal.
 
 
 Papers submitted in the Main Paper Track
