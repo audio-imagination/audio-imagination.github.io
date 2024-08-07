@@ -49,7 +49,7 @@ Papers submitted in the Main Paper Track
 * Should be double blind as per NeurIPS policy.
 
 
-Paper will be submitted through Openreview. Openreview Submission Link - https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/Audio_Imagination#tab-your-consoles
+Paper will be submitted through Openreview. Openreview Submission Link - [Openreview Audio Imagination 2024](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/Audio_Imagination#tab-your-consoles)
 
 
 ## Demo track
