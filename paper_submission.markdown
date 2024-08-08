@@ -26,7 +26,7 @@ Papers submitted in the Main Paper Track
 * Should be double blind as per NeurIPS policy.
 
 
-Paper will be submitted through Openreview. Openreview Submission Link - [Openreview Audio Imagination 2024](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/Audio_Imagination#tab-your-consoles)
+Paper will be submitted through Openreview. Submission Link will be available on Aug 18th. Openreview Submission Link - [Openreview Audio Imagination 2024](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/Audio_Imagination)
 
 
 ## Demo Track
@@ -39,4 +39,4 @@ We invite proposals for Demo Track. Demo Track submissions should focus on demoi
 * Are single blind. Authors should put their names and affiliations.
 * Can also come from Main Paper Track. Authors of the Main Paper Track can indicate in their paper interest in giving a demo of their work.
 
-Papers will be submitted through Openreview. Openreview Submission Link - Will be available on August 15.
+Papers will be submitted through Openreview. Openreview Submission Link - Will be available on August 18th.
