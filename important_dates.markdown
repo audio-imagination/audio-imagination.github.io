@@ -9,4 +9,4 @@ layout: default
 - **September 18, 2024** - Main Paper Submission Deadline
 - **September 21, 2024** - Demo Paper Submission Deadline
 - **October 9, 2024** - Paper & Demo Acceptance Notification
-- **December 14, 2024** - Workshop (Tentative. Could be on Dec 15th.)
+- **December 14, 2024** - Workshop

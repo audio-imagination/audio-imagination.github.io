@@ -20,7 +20,7 @@
 
 title: Audio Imagination
 #email: your-email@example.com
-description: 
+description:
 #baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://audio-imagination.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
@@ -28,7 +28,7 @@ url: "https://audio-imagination.github.io" # the base hostname & protocol for yo
 
 # Build settings
 #theme: minima
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: pages-themes/cayman
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
