@@ -56,5 +56,3 @@ layout: default
     <td style="border: none;">Meta, USA</td>
 </tr>
 </table>
-
-
