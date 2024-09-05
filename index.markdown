@@ -13,6 +13,8 @@ Generative AI has been at the forefront of AI research in recent times, with num
 # Call For Papers {#submission}
 We invite submissions for Main Paper and Demo Tracks. Please go to [Submission Page](./paper_submission.html) for submission instructions and more details.
 
+**ICASSP 2025 Submissions: Authors interested in submitting their ICASSP 2025 submissions to Audio Imagination workshop are welcome to do so.**
+
 Feel free to contact the organizers if you have any question regarding the workshop.
 
 The Audio Imagination Workshop at the Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024) aims to bring together researchers working in the field of generative AI for audio, speech, music, including multimodal generative AI with audio as one of the modalities.
