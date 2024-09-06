@@ -42,6 +42,6 @@ We invite proposals for Demo Track. Demo Track submissions should focus on demoi
 * Should be of maximum 2 pages of content, including all figures and tables.
 * Should clearly describe your demo and what participants will experience in your demo. A clear description of the overall demo setup is also expected.
 * Can also come from Main Paper Track. Authors of the Main Paper Track can indicate in their paper interest in giving a demo of their work.
-* **Deadline: September 21, 2024**.
+* **Deadline: September 18, 2024**.
 
 Papers will be submitted through OpenReview. OpenReview Submission Link - [OpenReview Audio Imagination 2024](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/Audio_Imagination).
