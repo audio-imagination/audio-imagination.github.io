@@ -8,6 +8,7 @@ layout: default
 
 We invite submission in two tracks, Main Paper Track and Demo Track. The submission  process and details are outlined below. Please reach out to the organizers for any questions/confusion.
 
+**Update: Deadline is extended to Sep 20, 2024. 11:59pm AoE**
 **Update: ICASSP 2025 Submissions: Authors interested in submitting their ICASSP 2025 submissions to Audio Imagination workshop are welcome to do so.**
 
 ## Main Paper Track
