@@ -13,7 +13,7 @@ The times are in PDT time zone.
 | :--   | :--  |
 | 08:15 - 08:30 | Welcome and opening remarks |
 | 08:30 - 09:00 | Alexis Conneau, CEO of Waveforms AI. Conversational Speech Turing Test|
-| 09:00 - 09:30 | Anna Huang, Assistant Professor at MIT.  |
+| 09:00 - 09:30 | Anna Huang, Assistant Professor at MIT. TBD |
 | 09:30 - 09:45 | Oral Presentation - [Improving Musical Accompaniment Co-creation via Diffusion Transformers](https://openreview.net/forum?id=zyE3Kdd85t) |
 | 09:45 - 10:00 | Oral Presentation - [AV-DiT: Efficient Audio-Visual Diffusion Transformer for Joint Audio and Video Generation](https://openreview.net/forum?id=FE6zflN5G5) |
 | 10:00 - 10:15 | Coffee Break |
@@ -25,7 +25,7 @@ The times are in PDT time zone.
 | 13:45 - 14:00 | Oral Presentation - [BLAP: Bootstrapping Language-Audio Pre-training for Music Captioning](https://openreview.net/forum?id=23LTPLTB88) |
 | 14:00 - 14:15 | Oral Presentation - [Improving Source Extraction with Diffusion and Consistency Models](https://openreview.net/forum?id=nskR7tWE6z) |
 | 14:15 - 14:45 | Yao Xie, Professor at Georgia Tech. Generative Models for Statistical Inference: Advancing Probabilistic Representations |
-| 14:45 - 15:15 | Vikas Chandra, Director of Core AI at Meta. Video To Audio Generation: From Autoregressive to Flow Matching |
+| 14:45 - 15:15 | Vikas Chandra, Director of Core AI at Meta. Audio Generation for VR/MR |
 | 15:15 - 15:30 | Coffee Break |
 | 15:30 - 16:15 | Panel Discussion and Closing Remarks |
 | 16:15 - 17:30 |  Poster + Demos Session |
